@@ -1,4 +1,4 @@
-# Hi there 👋, I'm DreamyLuna
+# Hi there 👋, I'm 失语koi
 
 > *"Keep learning, keep creating."*
 
@@ -27,8 +27,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DreamyLuna&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreamyLuna&layout=compact&theme=buefy&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lostvoicex&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lostvoicex&layout=compact&theme=buefy&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
 
 ---
@@ -36,7 +36,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DreamyLuna&theme=flat&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lostvoicex&theme=flat&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -44,8 +44,8 @@
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/DreamyLuna" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-DreamyLuna-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/lostvoicex" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-lostvoicex-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
